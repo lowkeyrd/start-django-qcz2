@@ -22,7 +22,7 @@ name: start-django-qcz2
 access: default
 
 vars: # 全局变量
-  region: cn-hangzhou
+  region: cn-beijing
   service:
     name: web-framework
     description: 'Serverless Devs Web Framework Service'
